@@ -19,3 +19,9 @@ def distance_calculate(a,b):
     minus_b=radlnga-radlngb
 
     return 2*math.asin( math.sqrt(sin_square(minus_a/2) + math.cos(radlata)*math.cos(radlatb)*sin_square(minus_b/2)))*Earth_Radius
+
+#坐标测试
+#google
+print(1000*distance_calculate((30.26848247,119.9499548338),(30.2688658749,119.9628533571)))
+#baidu
+print(1000*distance_calculate((30.274671,119.969392),(30.274261,119.956631)))
