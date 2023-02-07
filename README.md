@@ -1,6 +1,4 @@
 # CoordinateCalculator
-Python,经纬度距离计算
-
 
 公式计算引自 http://edwilliams.org/avform147.htm#Intro
 ## Use
