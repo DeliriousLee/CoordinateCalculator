@@ -1,3 +1,9 @@
+#    
+#    @desc : python 版本的公式计算
+#    @file : locationCalculator.py
+#    @date : 23/02/07 11:47
+#   
+
 import math
 Earth_Radius=6378.137
 def sin_square(a):
